@@ -1,2 +1,2 @@
 # Github-Workshop-I-August
-This is a repo for explaining hoe to g from git to github
+This is a repo for explaining how to go from git to github
